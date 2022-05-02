@@ -5,3 +5,4 @@ Some tasks from university:
 2. RSA - encrypts and decrypts 50 letters string
 3. DH - Diffi-Helman algorithm
 4. FS - hash functions
+5. VC - Visual cryptography
